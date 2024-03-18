@@ -1,0 +1,103 @@
+/* Button
+======================*/
+.custom-btn {
+    background: #a3adc8;
+}
+
+.pagenation li.active a:hover,
+.pagenation li.active a,
+.pagenation li a:hover {
+    background: #a3adc8;
+    color: #fff;
+}
+.form-control:hover,
+.form-control:focus {
+    border: 1px solid #a3adc8;
+}
+.radio-wrap input[type="radio"]:hover:not(:checked) ~ label,
+.radio-wrap input[type="checkbox"]:hover:not(:checked) ~ label {
+    color: #a3adc8;
+}
+.radio-wrap input[type="radio"]:checked ~ label:before,
+.radio-wrap input[type="checkbox"]:checked ~ label:before {
+    background: #a3adc8;
+    border-color: #a3adc8;
+}
+
+.load h1{
+    color: #a3adc8;
+}
+.load h2{
+    color: #a3adc8;
+}
+.login-register .form-title{
+    color: #a3adc8;
+}
+.login-register .form-footer a{
+    color: #a3adc8;
+}
+
+.nav-tabs li.active a ,
+.nav-tabs li.active a:hover ,
+.nav-tabs li.active a:focus ,
+.nav-tabs li a:hover ,
+.nav-tabs li a:focus {
+    color: #a3adc8;
+}
+.logo{
+    background: #fff;
+}
+.sidebar .side-menu-links li a:hover ,
+.sidebar .side-menu-links li a:focus ,
+.sidebar .side-menu-links li.actv a:hover ,
+.sidebar .side-menu-links li.actv a ,
+.sidebar .side-menu-links li.active a:hover ,
+.sidebar .side-menu-links li.active a ,
+.sidebar .side-menu-links li.drop-act a ,
+.sidebar .side-menu-links li.drop-act a:hover,
+.sidebar .side-menu-links li.drop-act a:focus{
+    border-right: 4px solid #a3adc8;
+}
+.page-heading {
+    border-right: 3px solid #a3adc8;
+}
+.page-heading h2 {
+    color: #a3adc8;
+}
+.page-heading .breadcrumb > li + li:before {
+    padding-left: 6px;
+    color: #a3adc8;
+}
+.page-heading .breadcrumb a {
+    color: #a3adc8;
+}
+.page-heading .breadcrumb > .active {
+    color: #222f44;
+}
+.widget .widget-title {
+    background: #a3adc8;
+}
+.top-header {
+    background: #a3adc8;
+}
+.toggle-icon{
+    border-left: 1px solid #a3adc8;
+}
+.toggle-icon:hover{
+    background: #a3adc8;
+}
+.top-header-links li a:hover{
+    background: #a3adc8;
+}
+.top-header-links .dropdown{
+    border-right: 1px solid #a3adc8;
+}
+.top-header-links .dropdown .custom-btn .count{
+    background: #a3adc8;
+}
+.top-header-links .dropdown .dropdown-menu ul li a .message-content .sender-name{
+    color: #a3adc8;
+}
+.top-header-links .dropdown.profile .profile-dropdown .heading h3{
+    color: #a3adc8;
+}
